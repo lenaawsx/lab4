@@ -7,13 +7,10 @@
 
 2. Пример кода одной кнопки на Bootstrap и на Tailwind
 
-Bootstrap:
-
+<!-- Bootstrap -->
 <a href="#about" class="btn btn-lg px-4" style="background-color:#d291ff; color:#fff;">Начать сейчас</a>
 
-
-Tailwind CSS:
-
+<!-- Tailwind CSS -->
 <a href="#about" class="bg-[#d291ff] text-white font-bold py-3 px-6 rounded-lg shadow-lg hover:bg-[#b564ff]">Начать сейчас</a>
 
 
