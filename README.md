@@ -13,7 +13,7 @@
 
 <!-- Tailwind CSS -->
 <a href="#about" class="bg-purple-400 text-white font-bold py-3 px-6 rounded-lg shadow-lg hover:bg-purple-500">Начать сейчас</a>
-
+```
 
 
 Ключевое различие:
